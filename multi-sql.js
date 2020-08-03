@@ -1,3 +1,5 @@
+// Copyright (c) 2020 Toan Ly
+
 'use strict';
 
 const express = require("express");
